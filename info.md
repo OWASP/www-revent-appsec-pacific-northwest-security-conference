@@ -1,2 +1,2 @@
 ### AppSec Pacific Northwest Security Conference Information
-* [GROUPNAME Website](https://pnwcon.com/)
+* [Official Website](https://pnwcon.com/)
